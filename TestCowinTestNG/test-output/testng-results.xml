@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-05-21T16:34:10Z" name="Default suite" finished-at="2021-05-21T16:34:40Z" duration-ms="30931">
+    <groups>
+    </groups>
+    <test started-at="2021-05-21T16:34:10Z" name="Default test" finished-at="2021-05-21T16:34:40Z" duration-ms="30931">
+      <class name="TestCowinAvailability">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:TestCowinAvailability@70be0a2b]" started-at="2021-05-21T16:34:10Z" name="openBrowser" finished-at="2021-05-21T16:34:11Z" duration-ms="1575" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="openURL()[pri:1, instance:TestCowinAvailability@70be0a2b]" started-at="2021-05-21T16:34:11Z" name="openURL" finished-at="2021-05-21T16:34:29Z" duration-ms="18304" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openURL -->
+        <test-method signature="searchByDistrictOption()[pri:2, instance:TestCowinAvailability@70be0a2b]" started-at="2021-05-21T16:34:29Z" name="searchByDistrictOption" finished-at="2021-05-21T16:34:30Z" duration-ms="120" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchByDistrictOption -->
+        <test-method signature="searchByDistrict()[pri:3, instance:TestCowinAvailability@70be0a2b]" started-at="2021-05-21T16:34:30Z" name="searchByDistrict" finished-at="2021-05-21T16:34:33Z" duration-ms="3329" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchByDistrict -->
+        <test-method signature="searchForLocations()[pri:4, instance:TestCowinAvailability@70be0a2b]" started-at="2021-05-21T16:34:33Z" name="searchForLocations" finished-at="2021-05-21T16:34:40Z" duration-ms="6923" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchForLocations -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:TestCowinAvailability@70be0a2b]" started-at="2021-05-21T16:34:40Z" name="closeBrowser" finished-at="2021-05-21T16:34:40Z" duration-ms="665" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- TestCowinAvailability -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
